@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Martínez</h1>
 <h3 align="center">A 24 years old passionate frontend developer from Lara, Venezuela.</h3>
 
-- 👨‍💻 All of my projects are available at [(https://luifer-portfolio.vercel.app/)](https://luifermartinez.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [(https://luifermartinez.github.io/portfolio/)](https://luifermartinez.github.io/portfolio/)
 
 - 📫 How to reach me **thelm132@gmail.com**
 
